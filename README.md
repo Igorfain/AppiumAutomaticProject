@@ -2,7 +2,7 @@
 
 This project demonstrates a basic automation framework using **Appium** and the **Page Object Model (POM)** design pattern for testing Android applications. The project is structured to promote modularity, readability, and reusability.
 
-Additionally, a non-POM test class can be found in the `WITHOUT.POM` package for reference.
+Additionally, a non-POM test class can be found in the 'tests'-> `WITHOUT.POM` package for reference.
 
 ## Features
 
