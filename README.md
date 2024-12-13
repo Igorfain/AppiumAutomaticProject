@@ -50,12 +50,3 @@ This test verifies the following:
 2. Reads and verifies the battery percentage.
 3. Toggles the "Show battery percentage in status bar" setting.
 
-
-
-
-
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
