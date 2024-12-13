@@ -19,24 +19,7 @@ Additionally, a non-POM test class can be found in the 'tests'-> `WITHOUT.POM` p
    - Install and configure the Android SDK. Ensure the `ANDROID_HOME` environment variable is set.
 3. **Appium**
    - Install Appium server (v2.x recommended).
-4. **Dependencies**
-   - Add the required dependencies in your `pom.xml` (if using Maven):
-
-```xml
-<dependencies>
-    <dependency>
-        <groupId>io.appium</groupId>
-        <artifactId>java-client</artifactId>
-        <version>9.3.0</version>
-    </dependency>
-    <dependency>
-        <groupId>org.testng</groupId>
-        <artifactId>testng</artifactId>
-        <version>7.10.2</version>
-    </dependency>
-</dependencies>
-```
-
+   - 
 ## Getting Started
 
 1. Clone the repository:
