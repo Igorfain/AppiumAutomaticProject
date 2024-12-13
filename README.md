@@ -14,7 +14,7 @@ Additionally, a non-POM test class can be found in the 'tests'-> `WITHOUT.POM` p
 ## Prerequisites
 
 1. **Java**
-   - Ensure Java 22 is installed (e.g., OpenJDK 22).
+   - Ensure Java 21 is installed .
 2. **Android SDK**
    - Install and configure the Android SDK. Ensure the `ANDROID_HOME` environment variable is set.
 3. **Appium**
